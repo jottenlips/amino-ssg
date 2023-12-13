@@ -12,6 +12,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "amino-ssg"
+version = "0.1.0"
+dependencies = [
+ "femark",
+]
+
+[[package]]
 name = "bitflags"
 version = "1.3.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -120,13 +127,6 @@ checksum = "d530e1a18b1cb4c484e6e34556a0d948706958449fca0cab753d649f2bce3d1f"
 dependencies = [
  "equivalent",
  "hashbrown",
-]
-
-[[package]]
-name = "king-ssg"
-version = "0.1.0"
-dependencies = [
- "femark",
 ]
 
 [[package]]
