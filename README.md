@@ -9,13 +9,18 @@ static site generator
 
 I decided to port over the logic of my ReasonML SSG to Rust! 
 
-Production
+# Production
 
+## install (coming soon)
+```
+```
+
+## generate site
 ```
 amino markdown out
 ```
 
-Development
+# Development
 
 ```
 git clone git@github.com:jottenlips/amino-ssg.git
