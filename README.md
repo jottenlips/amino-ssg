@@ -1,7 +1,7 @@
 # amino-ssg
 🦀 Sweet simple static site generator
 
-I decided to port over the logic of my last SSG to Rust! 
+I decided to port over the logic of my ReasonML SSG to Rust! 
 
 Production
 
