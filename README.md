@@ -17,7 +17,7 @@ I decided to port over the logic of my ReasonML SSG to Rust!
 
 ## generate site
 ```
-amino markdown out
+amino markdown public
 ```
 
 # Development
